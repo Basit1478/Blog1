@@ -10,7 +10,7 @@ const Footer = () => {
             </p>
           </div>
           {/* Links */}
-          <div>
+          <div className="ml-10">
             <h3 className="text-xl font-bold mb-4 text-gray-900">Quick Links</h3>
             <ul className="space-y-2 text-gray-900">
               <li><a href="/" className="hover:text-orange-500">Home</a></li>
