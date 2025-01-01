@@ -3,7 +3,7 @@ const Footer = () => {
       <footer className="bg-orange-300  py-10">
         <div className="container mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* About */}
-          <div className="ml-[90px]">
+          <div className="ml-10">
             <h3 className="text-xl font-bold mb-4 text-gray-900">About</h3>
             <p className="text-gray-900">
               Welcome to <span className="text-orange-500 font-sans font-bold text-xl">Info</span><span className="text-orange-800 font-sans font-bold text-xl">logy</span>, you go-to platform for amazing stories and insights.
@@ -34,7 +34,7 @@ const Footer = () => {
               </button>
             </form>
           </div>
-          <div className="ml-[90px]">
+          <div className="ml-10">
           <h3 className="text-xl font-semibold mb-4 text-gray-900">Follow Us</h3>
           <div className="flex space-x-4">
             <a
@@ -62,7 +62,7 @@ const Footer = () => {
         </div>
         </div>
         
-        <p className="text-center text-gray-900 mt-6">
+        <p className="text-center text-gray-900 mt-6 ml-3">
           &copy; {new Date().getFullYear()} Developed By <span className="font-bold text-orange-800"> Basit Ali</span>. All rights reserved.
         </p>
       </footer>
