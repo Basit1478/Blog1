@@ -15,7 +15,7 @@ const page = () => {
   role="presentation"
   src="/images/pic3.jpg"
 />
-      <p className="text-lg">
+      <p className="text-lg text-black">
       About eight months ago we open-sourced our progress on Tailwind CSS v4.0. Hundreds of
        hours of fixing bugs, soul-crushing backward compatibility work, and troubleshooting Windows CI failures
         later, I’m excited to finally tag the first public beta release.
