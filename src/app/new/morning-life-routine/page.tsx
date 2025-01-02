@@ -16,7 +16,7 @@ const page = () => {
   role="presentation"
   src="/images/pic4.png"
 />
-      <p className="text-lg">
+      <p className="text-lg text-black">
       ​Your morning routine sets the tone for the rest of your day, influencing your mood, productivity, 
       and overall well-being. Crafting an effective morning routine is key to starting your day on the
        right foot and maximizing your success. In this blog post, we'll explore practical tips for 
