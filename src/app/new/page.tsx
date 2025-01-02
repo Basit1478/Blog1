@@ -29,7 +29,7 @@ const page = () => {
            
               
             </p>
-            <a className="text-blue-500 hover:underline" href="/new/morning-life-routine">
+            <a className="text-blue-500 hover:underline" href="/latest/morning-life-routine">
               Read more
             </a>
           </div>
@@ -54,7 +54,7 @@ const page = () => {
             </p>
             <a
               className="text-blue-500 hover:underline"
-              href="/new/simple-workout"
+              href="/latest/simple-workout"
             >
               Read more
             </a>
@@ -79,7 +79,7 @@ const page = () => {
             </p>
             <a
               className="text-blue-500 hover:underline"
-              href="/new/underrated-destinations"
+              href="/latest/underrated-destinations"
             >
               Read more
             </a>
