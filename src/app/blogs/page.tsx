@@ -21,7 +21,7 @@ const page = () => {
               src="/images/pic.webp"
               style={{ color: "transparent" }}
             />
-            <h2 className="text-xl font-semibold mb-2">
+            <h2 className="text-xl font-semibold mb-2 text-black">
               How I Would Learn To Code Today, if I Could Start All Overs
             </h2>
             <p className="text-gray-600 mb-4">
@@ -44,7 +44,7 @@ const page = () => {
               src="/images/pic2.avif"
               style={{ color: "transparent" }}
             />
-            <h2 className="text-xl font-semibold mb-2">
+            <h2 className="text-xl font-semibold mb-2 text-black">
             The Benefits of Using TypeScript
             </h2>
             <p className="text-gray-600 mb-4">
@@ -70,7 +70,7 @@ const page = () => {
               src="/images/pic3.jpg"
               style={{ color: "transparent" }}
             />
-            <h2 className="text-xl font-semibold mb-2">
+            <h2 className="text-xl font-semibold mb-2 text-black">
             Tailwind CSS for Modern UI Design
             </h2>
             <p className="text-gray-600 mb-4">
@@ -101,7 +101,7 @@ const page = () => {
               src="/images/pic4.png"
               style={{ color: "transparent" }}
             />
-            <h2 className="text-xl font-semibold mb-2">
+            <h2 className="text-xl font-semibold mb-2 text-black">
             How to Create a Morning Routine That Sets You Up for Success
             </h2>
             <p className="text-gray-600 mb-4">
@@ -125,7 +125,7 @@ const page = () => {
               src="/images/pic5.jpg"
               style={{ color: "transparent" }}
             />
-            <h2 className="text-xl font-semibold mb-2">
+            <h2 className="text-xl font-semibold mb-2 text-black">
             Fitness at Home: 5 Simple Exercises
             </h2>
             <p className="text-gray-600 mb-4">
@@ -151,7 +151,7 @@ const page = () => {
               src="/images/pic6.webp"
               style={{ color: "transparent" }}
             />
-            <h2 className="text-xl font-semibold mb-2">
+            <h2 className="text-xl font-semibold mb-2 text-black">
            Top 10 Underrated Travel Destinations for 2025
             </h2>
             <p className="text-gray-600 mb-4">
@@ -181,7 +181,7 @@ const page = () => {
               src="/images/pic7.jpg"
               style={{ color: "transparent" }}
             />
-            <h2 className="text-xl font-semibold mb-2">
+            <h2 className="text-xl font-semibold mb-2 text-black">
             How to Save for Your Dream Vacation Without Breaking the Bank
             </h2>
             <p className="text-gray-600 mb-4">
@@ -207,7 +207,7 @@ const page = () => {
         
               style={{ color: "transparent" }}
             />
-            <h2 className="text-xl font-semibold mb-2">
+            <h2 className="text-xl font-semibold mb-2 text-black">
             Top 5 Platforms for Learning New Skills Online
             </h2>
             <p className="text-gray-600 mb-4">
@@ -234,7 +234,7 @@ const page = () => {
             
               style={{ color: "transparent" }}
             />
-            <h2 className="text-xl font-semibold mb-2">
+            <h2 className="text-xl font-semibold mb-2 text-black">
             10 Easy Ways to Make Your Life More Sustainable
             </h2>
             <p className="text-gray-600 mb-4">
