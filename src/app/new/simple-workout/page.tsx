@@ -16,7 +16,7 @@ const page = () => {
   role="presentation"
   src="/images/pic5.jpg"
 />
-      <p className="text-lg">
+      <p className="text-lg text-black">
       Daily physical activity and exercise is a staple of a balanced healthy lifestyle. As one of the seven 
       pillars of lifestyle medicine, staying active is about moving more and sitting less. We’ve all heard
        the benefits of incorporating fitness into your daily routine – regular exercise can help control 
