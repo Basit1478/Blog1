@@ -16,7 +16,7 @@ const page = () => {
   role="presentation"
   src="/images/pic3.jpg"
 />
-      <p className="text-lg">
+      <p className="text-lg text-black">
       Travel enthusiasts often flock to well-known destinations. But there are many underrated
        spots that offer unique experiences. Here, we highlight ten destinations that deserve
         more attention in 2024.
