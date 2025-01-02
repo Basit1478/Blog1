@@ -21,7 +21,7 @@ const page = () => {
               src="/images/pic7.jpg"
               style={{ color: "transparent" }}
             />
-            <h2 className="text-xl font-semibold mb-2">
+            <h2 className="text-xl font-semibold mb-2 text-black">
             How to Save for Your Dream Vacation Without Breaking the Bank
             </h2>
             <p className="text-gray-600 mb-4">
@@ -46,7 +46,7 @@ const page = () => {
               src="/images/pic8.jpg"
               style={{ color: "transparent" }}
             />
-            <h2 className="text-xl font-semibold mb-2">
+            <h2 className="text-xl font-semibold mb-2 text-black">
             Top 5 Platforms for Learning New Skills Online
             </h2>
             <p className="text-gray-600 mb-4">
@@ -70,7 +70,7 @@ const page = () => {
              role="presentation"
              src="/images/pic9.png"
            />
-             <h2 className="text-xl font-semibold mb-2">
+             <h2 className="text-xl font-semibold mb-2 text-black">
             10 Easy Ways to Make Your Life More Sustainable
             </h2>
             <p className="text-gray-600 mb-4">
