@@ -20,7 +20,7 @@ const Footer = () => {
             </ul>
           </div>
           {/* Newsletter */}
-          <div>
+          <div className="ml-8">
             <h3 className="text-xl font-bold mb-4 text-gray-900">Newsletter</h3>
             <p className="text-gray-900">Stay updated with our latest posts.</p>
             <form className="mt-4">
