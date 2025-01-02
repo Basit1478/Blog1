@@ -19,7 +19,7 @@ const page = () => {
   role="presentation"
   src="/images/pic7.jpg"
 />
-      <p className="text-lg">
+      <p className="text-lg text-black">
       <span className='text-2xl font-bold'>D</span>reaming of the perfect getaway? The idea of that sun-soaked holiday might seem distant when 
       faced with budget concerns, but fear not! This blog is your guide to turning that dream into 
       reality without straining your wallet. We’re here to break down the saving process into 
