@@ -17,7 +17,7 @@ const page = () => {
 />
 <h1 className='text-2xl font-bold'>What is TypeScript?</h1>
 <br />
-<p className="text-lg">
+<p className="text-lg text-black">
 TypeScript is a free and open-source high-level programming language developed by Microsoft 
 that adds a rich type system to JavaScript.It’s used with front-end frameworks such as Angular, 
 Veu, and React. TypeScript can also be used to build a backend with Node.js. 
