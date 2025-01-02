@@ -19,7 +19,7 @@ const page = () => {
   role="presentation"
   src="/images/pic8.jpg"
 />
-      <p className="text-lg">
+      <p className="text-lg text-black">
 
      <span className='text-2xl font-bold' >1. GetResponse</span>
       <br />
