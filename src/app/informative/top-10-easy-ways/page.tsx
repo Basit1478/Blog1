@@ -8,7 +8,7 @@ const page = () => {
     <div>
         <Navbar />
         <div>
-       <div className="min-h-screen p-6 bg-gradient-to-r from-gray-50 to-gray-100">
+       <div className="min-h-screen p-6 ">
     <div className= "max-w-4xl mx-auto bg-gray-50 shadow-lg rounded-lg p-8">
     <Image
   alt="Background image"
