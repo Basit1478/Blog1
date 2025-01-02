@@ -21,7 +21,7 @@ const page = () => {
               src="/images/pic4.png"
               style={{ color: "transparent" }}
             />
-            <h2 className="text-xl font-semibold mb-2">
+            <h2 className="text-xl font-semibold mb-2 text-black">
             How to Create a Morning Routine That Sets You Up for Success
             </h2>
             <p className="text-gray-600 mb-4">
@@ -45,7 +45,7 @@ const page = () => {
               src="/images/pic5.jpg"
               style={{ color: "transparent" }}
             />
-            <h2 className="text-xl font-semibold mb-2">
+            <h2 className="text-xl font-semibold mb-2 text-black">
             Fitness at Home: 5 Simple Exercises
             </h2>
             <p className="text-gray-600 mb-4">
@@ -71,7 +71,7 @@ const page = () => {
               src="/images/pic6.webp"
               style={{ color: "transparent" }}
             />
-            <h2 className="text-xl font-semibold mb-2">
+            <h2 className="text-xl font-semibold mb-2 text-black">
            Top 10 Underrated Travel Destinations for 2025
             </h2>
             <p className="text-gray-600 mb-4">
