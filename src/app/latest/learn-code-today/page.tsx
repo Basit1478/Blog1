@@ -15,7 +15,7 @@ const page = () => {
   role="presentation"
   src="/images/pic6.webp"
 />
-      <p className="text-lg">
+      <p className="text-lg text-black">
       <span className="text-4xl font-semibold font-serif ">I’</span>
       m going to tell you exactly how I would learn to code today, 
         if I were <br /> starting all over again. No prior knowledge of coding is required! <br />
