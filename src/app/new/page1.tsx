@@ -1,16 +1,18 @@
-import React from 'react'
-import Navbar from '@/components/Navbar'
-import Footer from '@/components/Footer'
-import Image from 'next/image'
+
+import Footer from "@/components/Footer";
+import Navbar from "@/components/Navbar";
+import React from "react";
+import Image from "next/image";
 const page = () => {
   return (
     <div>
-      <Navbar />
-        <div className="max-w-screen-lg mx-auto px-4 py-8 ">
-        <h1 className="text-3xl font-bold mb-6">New Blogs</h1>
+      <Navbar/>
+  <div className="min-h-screen p-6 ">
+    <div className="max-w-screen-lg mx-auto px-4 py-8 ">
+        <h1 className="text-3xl font-bold mb-6">Latest Blogs</h1>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           <div className="bg-white p-4 rounded-lg shadow-lg">
-             <Image
+            <Image
               alt="How I Would Learn To Code Today, if I Could Start All Overs"
               loading="lazy"
               width={500}
@@ -18,77 +20,78 @@ const page = () => {
               decoding="async"
               data-nimg={1}
               className="w-full h-48 object-cover rounded-md mb-4"
-              src="/images/pic4.png"
+              src="/images/pic.webp"
               style={{ color: "transparent" }}
             />
             <h2 className="text-xl font-semibold mb-2 text-black">
-            How to Create a Morning Routine That Sets You Up for Success
+              How I Would Learn To Code Today, if I Could Start All Overs
             </h2>
             <p className="text-gray-600 mb-4">
-            ​Your morning routine sets the tone for the rest of your day...
-           
-              
+              I’ve been building websites since 1998, and a lot has changed.
+              Here’s how I would learn to code today,
             </p>
-            <a className="text-blue-500 hover:underline" href="/latest/morning-life-routine">
+            <a className="text-blue-500 hover:underline" href="/new/learn-code-today">
               Read more
             </a>
           </div>
           <div className="bg-white p-4 rounded-lg shadow-lg">
-           <Image
-              alt="Fitness at Home: 5 Simple Exercises"
+          <Image
+              alt="  The Benefits of Using TypeScript"
               loading="lazy"
               width={500}
               height={300}
               decoding="async"
               data-nimg={1}
               className="w-full h-48 object-cover rounded-md mb-4"
-              src="/images/pic5.jpg"
+              src="/images/pic2.avif"
               style={{ color: "transparent" }}
             />
             <h2 className="text-xl font-semibold mb-2 text-black">
-            Fitness at Home: 5 Simple Exercises
+            The Benefits of Using TypeScript
             </h2>
             <p className="text-gray-600 mb-4">
-            Daily physical activity and exercise is a staple of a balanced healthy lifestyle.
-            As one of the seven  pillars of lifestyle...
+            TypeScript is a free and open-source high-level programming language developed 
+            by Microsoft that adds a rich type system to JavaScript.
             </p>
             <a
               className="text-blue-500 hover:underline"
-              href="/latest/simple-workout"
+              href="/new/benefits-typescript"
             >
               Read more
             </a>
           </div>
           <div className="bg-white p-4 rounded-lg shadow-lg">
-             <Image
-              alt="Top 10 Underrated Travel Destinations for 2025"
+          <Image
+              alt="Tailwind CSS for Modern UI Design"
               loading="lazy"
               width={500}
               height={300}
               decoding="async"
               data-nimg={1}
               className="w-full h-48 object-cover rounded-md mb-4"
-              src="/images/pic6.webp"
+              src="/images/pic3.jpg"
               style={{ color: "transparent" }}
             />
             <h2 className="text-xl font-semibold mb-2 text-black">
-           Top 10 Underrated Travel Destinations for 2025
+            Tailwind CSS for Modern UI Design
             </h2>
             <p className="text-gray-600 mb-4">
-            Travel enthusiasts often flock to well-known destinations.
+            About eight months ago we open-sourced our 
+            progress on Tailwind CSS v4.0.
             </p>
             <a
               className="text-blue-500 hover:underline"
-              href="/latest/underrated-destinations"
+              href="/new/modern-ui-design-tailwand-css"
             >
               Read more
             </a>
           </div>
-        </div>
       </div>
-      <Footer />
     </div>
-  )
-}
+    </div>
+    <Footer/>
+    </div>
+  );
+};
 
-export default page
+export default page;
