@@ -14,7 +14,7 @@ const page = () => {
   height={400}
   loading="eager"
   role="presentation"
-  src="/images/pic3.jpg"
+  src="/images/pic6.webp"
 />
       <p className="text-lg text-black">
       Travel enthusiasts often flock to well-known destinations. But there are many underrated
