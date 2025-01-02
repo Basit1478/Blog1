@@ -19,7 +19,7 @@ const page = () => {
   role="presentation"
   src="/images/pic9.png"
 />
-      <p className="text-lg">
+      <p className="text-lg text-black">
       <span className='font-bold text-2xl'>I. Introduction</span>
       <br />
       <br />
