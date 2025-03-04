@@ -30,7 +30,7 @@ const page = () => {
               I’ve been building websites since 1998, and a lot has changed.
               Here’s how I would learn to code today,
             </p>
-            <a className="text-blue-500 hover:underline" href="/new/learn-code-today">
+            <a className="text-blue-500 hover:underline" href="/latest/learn-code-today">
               Read more
             </a>
           </div>
@@ -55,7 +55,7 @@ const page = () => {
             </p>
             <a
               className="text-blue-500 hover:underline"
-              href="/new/benefits-typescript"
+              href="/latest/benefits-typescript"
             >
               Read more
             </a>
@@ -81,7 +81,7 @@ const page = () => {
             </p>
             <a
               className="text-blue-500 hover:underline"
-              href="/new/modern-ui-design-tailwand-css"
+              href="/latest/modern-ui-design-tailwand-css"
             >
               Read more
             </a>
