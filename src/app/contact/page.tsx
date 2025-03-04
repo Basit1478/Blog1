@@ -116,14 +116,14 @@ const Contact = () => {
           <h2 className="text-2xl font-semibold text-orange-700">Contact Information</h2>
           <p className="text-gray-600 mt-4">Email: ba876943@gmail.com</p>
           <div className="mt-6 flex justify-center space-x-4">
-            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-orange-600 hover:underline">
+            <a href="https://x.com/basitali2405" target="_blank" rel="noopener noreferrer" className="text-orange-600 hover:underline">
               Twitter
             </a>
-            <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="text-orange-600 hover:underline">
+            <a href="https://www.facebook.com/basit256" target="_blank" rel="noopener noreferrer" className="text-orange-600 hover:underline">
               Facebook
             </a>
-            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="text-orange-600 hover:underline">
-              Instagram
+            <a href="https://www.linkedin.com/in/basit-ali-baloch-738285253/" target="_blank" rel="noopener noreferrer" className="text-orange-600 hover:underline">
+             LinkedIn
             </a>
           </div>
         </div>
