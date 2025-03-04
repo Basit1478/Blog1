@@ -40,21 +40,21 @@ const Footer = () => {
             <a
               target="_blank"
               className="text-gray-900 hover:text-orange-600"
-              href="https://twitter.com"
+              href="https://x.com/basitali2405"
             >
               Twitter
             </a>
             <a
               target="_blank"
               className="text-gray-900 hover:text-orange-600"
-              href="https://facebook.com"
+              href="https://www.facebook.com/basit256"
             >
               Facebook
             </a>
             <a
               target="_blank"
               className="text-gray-900 hover:text-orange-600"
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/basit-ali-baloch-738285253/"
             >
               LinkedIn
             </a>
